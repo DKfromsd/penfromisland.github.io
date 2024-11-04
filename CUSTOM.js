@@ -4,12 +4,12 @@
  * Anthony note: Changing these texts may cause severe side effects. 
  * Please beware of changing the length of texts and number of words. 
  */
-const phrase1 = `Illustrations`;
-// const phrase2 = `Add your colors on your kid's future`;
-const phrase3 = `Childrens Book`;
-const phrase4 = `Bring attentions`;
-const phrase5 = `Nurture your kids`;
-const phrase6 = `Draw futures with their dreams`;
+const phrase1 = `Cyber Security Solutions`;
+// const phrase2 = `Secure Your SmallBiz`;
+const phrase3 = `Shield your Business`;
+const phrase4 = `Shield your future`;
+const phrase5 = `Protect clearly`;
+const phrase6 = `Cyber Security`;
 
 const email = `info@rysonconsulting.com`;
 const phone = `(123) 456-7890`;
@@ -22,4 +22,3 @@ const mainDesc = `
     jumpstart your website. With our service, you can present your business online with a custom domain 
     in an ad-free environment within a couple of hours.
 `;
-
